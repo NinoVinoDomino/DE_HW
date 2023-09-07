@@ -1,2 +1,2 @@
 # DE_HW
-Data Engineering projects from SBerUniversity
+Data Engineering projects from SberUniversity
